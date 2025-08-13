@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiacode777
 - 👀 I’m interested in project related to working with ai
-- 🌱 I’m currently learning c ++
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on app development
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: nothing
