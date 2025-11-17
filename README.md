@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on app development
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: nothing
+  
 
 <!---
 jiacode777/jiacode777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
